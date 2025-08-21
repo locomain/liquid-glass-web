@@ -6,7 +6,7 @@
   <small>If the GIF doesn't load, <a href="./example.gif">download <code>example.gif</code></a>.</small>
 </p><br />
 
-**LiquidGlass** is a reusable UI component developed by [Studio Perrello](https://perrello.design) that adds a stunning, glass-like distortion and shine effect using SVG filters and modern CSS.
+**LiquidGlass** is a reusable UI component developed by [Studio Perrello](https://studioperrello.com) that adds a stunning, glass-like distortion and shine effect using SVG filters and modern CSS.
 
 It's highly customizable and ideal for buttons, cards, menus, modals, or any UI element that deserves a refined, premium look.
 
@@ -136,7 +136,7 @@ You can override the following CSS variables in **any implementation** (via prop
 
 ## 🧪 Demo
 
-[Simple example](https://glass.perrello.io)
+[Simple example](https://glass.studioperrello.com)
 ---
 
 ## 📄 License
@@ -145,4 +145,4 @@ This software is proprietary and not open-source.
 
 You may **not** redistribute, resell, or reuse this component outside of approved usage or without express permission.
 
-© [Studio Perrello](https://perrello.io)
+© [Studio Perrello](https://studioperrello.com)
