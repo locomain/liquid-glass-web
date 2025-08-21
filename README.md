@@ -27,7 +27,7 @@ It's highly customizable and ideal for buttons, cards, menus, modals, or any UI 
 
 ## ⚙️ Installation & Usage
 
-### 1. 🧩 Web Component (Vanilla HTML/JS)
+### 1. 🧩 Web Component
 
 ```html
 <script type="module" src="glass.js"></script>
